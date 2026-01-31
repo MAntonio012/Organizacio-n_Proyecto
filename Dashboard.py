@@ -4,7 +4,7 @@ import subprocess
 class Dashboard:
     """
     Dashboard para gestionar prácticas de Programación Orientada a Objetos
-    Autor: TU NOMBRE AQUÍ
+    Autor: Miguel Palma
     """
 
     def __init__(self):
@@ -19,7 +19,7 @@ class Dashboard:
         print(" Dashboard POO ")
         print("==============================")
         print("Curso: Programación Orientada a Objetos")
-        print("Autor: TU NOMBRE")
+        print("Autor: Miguel Palma")
         print("Repositorio de prácticas")
         print("==============================\n")
 
